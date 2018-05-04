@@ -1,0 +1,16 @@
+--For database, we need to create a YML file. It consist of faces, labels and other important data
+
+-- install pillow
+
+
+
+
+
+-- Name & Ids
+    1 - Tara Chand
+    2 - Yogesh Jangid
+    3 - Ankur Gaur
+    4 - Shivam
+    5 -     
+
+
