@@ -1,0 +1,2 @@
+This YML file contains the trained memory of trainer.py program and works as local memory to get utilised for recognition.
+Can be updated by running trainer.py if there is another face in data.
